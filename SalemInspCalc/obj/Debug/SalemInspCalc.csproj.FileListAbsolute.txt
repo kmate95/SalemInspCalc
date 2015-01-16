@@ -1,0 +1,1 @@
+E:\_Projects\salem\SalemInspCalc\SalemInspCalc\bin\Debug\SalemInspCalc.exe.config
